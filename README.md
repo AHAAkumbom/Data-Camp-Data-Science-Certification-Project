@@ -1,6 +1,7 @@
+<img width="1128" alt="DS - LinkedIn" src="https://github.com/user-attachments/assets/baa1cbfd-01ca-473d-9299-57bf46e0e86f">
+
 # DataCamp's Data Scientist Professional Certification
 ## Recipe Site Traffic
-
 This project aims to predict high-traffic recipes and achieve an 80% accuracy rate in these predictions.
 
 ## Project Overview
